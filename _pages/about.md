@@ -3,5 +3,5 @@ title: "About"
 layout: default
 permalink: /about/
 ---
-
-Hello world 
+## About Me
+I am a Quantitative Data Analyst at ClipperData.
