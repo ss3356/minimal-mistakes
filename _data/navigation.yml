@@ -2,7 +2,7 @@
 main:
 
   - title: "About"
-    url: https://ss3356.github.io
+    url: 	permalink: /about/
 
   - title: "Posts"
     url: www.cornell.edu
