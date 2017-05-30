@@ -1,4 +1,9 @@
-
+---
+layout: single
+comments: true
+title: "New Manager Bounce : Analysis of Mid-Season Manager Hirings in the English Premier League.md"
+date: 2016-06-06
+---
 
 The term 'New Manager Bounce' has become part of football jargon over the past few years. Given the new TV deal and the plethora of opportunities to make money by staying in the Premier League, there is an ever increasing pressure on managers to deliver results fast. A few wins on the trot could be the difference between survival and relegation. Clubs turn to new managers hoping for quick results and a change in fortune.
 
