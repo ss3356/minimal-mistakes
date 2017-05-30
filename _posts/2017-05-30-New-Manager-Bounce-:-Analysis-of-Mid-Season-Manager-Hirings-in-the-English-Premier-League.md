@@ -1,7 +1,7 @@
 ---
 layout: single
 comments: true
-title: "New Manager Bounce : Analysis of Mid-Season Manager Hirings in the English Premier League.md"
+title: "New Manager Bounce : Analysis of Mid-Season Manager Hirings in the English Premier League"
 date: 2016-05-30
 ---
 
