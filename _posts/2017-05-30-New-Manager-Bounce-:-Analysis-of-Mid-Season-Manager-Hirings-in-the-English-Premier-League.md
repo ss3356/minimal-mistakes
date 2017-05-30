@@ -61,19 +61,20 @@ Let us look at the entire history. Among **107** mid-season manager hires, **80*
 
 ### Worst performing new managers
 
-<img src="/images/villa15.png" width="325"/> <img src="/images/sunderland02.png" width="325"/> 
 
-Eric Black (Aston Villa, 2015/16) and Mick McCarthy (Sunderland, 2002/03) are the only mid-season hires to start their terms with 5 consecutive losses. Surprisingly, the 5 games leading up to their start were also losses. Ultimately, the new managers couldn't save their clubs from relegation. 
+
+**Eric Black** (Aston Villa, 2015/16) and **Mick McCarthy** (Sunderland, 2002/03) are the only mid-season hires to start their terms with 5 consecutive losses. Surprisingly, the 5 games leading up to their start were also losses. Ultimately, the new managers couldn't save their clubs from relegation. 
 
 
 ## When is the bounce most prevalent?
 Let us examine the number of manager hirings by month and the ones who achieved the bounce.
 
-[Plot of Manager Hirings and the ones that brought a bounce by month](http://imgur.com/a/SOIJr)
+<div style="text-align:center;"><img src="/images/bymonthbar.png" width="425"/> 
 
-[Plot with % bounce per month. Notice the huge spike for November and December.](http://imgur.com/a/O8cdR)
 
-**November is the highest**, with 14 out of 16 managers achieving the bounce (~ 88%). If you look at the plot closely, it is easy to observe that managers tend to do well from October to December and start dropping off from January onwards. 
+**November is the highest**, with 14 out of 16 managers achieving the bounce (~ 88%). If you look at the following plot closely, it is easy to observe that managers tend to do well from October to December and start dropping off from January onwards. 
+
+<div style="text-align:center;"><img src="/images/bymonthpercent.png" width="325"/> 
 
 This indicates that the best time to bring on a manager would be towards the end of the first half of the season. There are many factors that contribute to this. Unless the situation was hopeless and an immediate change was needed, teams do not sack managers during the early parts of the season. This makes it relatively easy for new managers to bounce back, since there is no way to go but up. Also, managers can make use of the winter transfer window to bring the right players they need. Then again, you have [Moyesy](http://www.telegraph.co.uk/football/2017/01/20/david-moyes-paints-bleak-picture-sunderland-transfer-hopes/). 
 
@@ -104,8 +105,6 @@ Are there any managers who have made a reputation by achieving this bounce and t
 If we just look at the numbers, Harry Redknapp leads the list where he has achieved the bounce 3 times. But this metric is misleading in identifying specialists. If a manager has had a lot of stints, he is bound to get it right some of the time.  
 
 A better metric to look at would be the **number of times bounce was achieved relative to the number of times in charge during mid-season**. We look for managers who have been hired *more than once* during the mid-season.
-
-[Top managers plotted as a stacked Bar chart](http://imgur.com/a/bAAGk)
 
 **Alan Pardew, Avram Grant, Guus Hiddink, John Gregory, Kenny Dalglish, Ron Atkinson, Sam Allardyce and Tim Sherwood** have a 100% record of achieving a bounce, while Harry Redknapp drops down the list with a 75% record (3 out of 4 stints). 
 
