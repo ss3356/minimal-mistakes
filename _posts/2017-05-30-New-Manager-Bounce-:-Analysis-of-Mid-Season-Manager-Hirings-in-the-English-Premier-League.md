@@ -69,18 +69,13 @@ Let us look at the entire history. Among **107** mid-season manager hires, **80*
 ## When is the bounce most prevalent?
 Let us examine the number of manager hirings by month and the ones who achieved the bounce.
 
-
-<div style="text-align:center;"><img src="/images/bymonthbar.png" align = "center" width="425"/> 
-
-
+<div style="text-align:center;"><img src="/images/bymonthbar.png" align = "center" width="425"></div>
 
 
 **November is the highest**, with 14 out of 16 managers achieving the bounce (~ 88%). If you look at the following plot closely, it is easy to observe that managers tend to do well from October to December and start dropping off from January onwards. 
 
 
-
-<div style="text-align:center;"><img src="/images/bymonthpercent.png" align = "center" width="425"/> 
-
+<div style="text-align:center;"><img src="/images/bymonthpercent.png" align = "center" width="425"></div>
 
 
 This indicates that the best time to bring on a manager would be towards the end of the first half of the season. There are many factors that contribute to this. Unless the situation was hopeless and an immediate change was needed, teams do not sack managers during the early parts of the season. This makes it relatively easy for new managers to bounce back, since there is no way to go but up. Also, managers can make use of the winter transfer window to bring the right players they need. Then again, you have [Moyesy](http://www.telegraph.co.uk/football/2017/01/20/david-moyes-paints-bleak-picture-sunderland-transfer-hopes/). 
