@@ -61,7 +61,7 @@ Let us look at the entire history. Among **107** mid-season manager hires, **80*
 
 ### Worst performing new managers
 
-<img src="/images/villa15.png" width="300"/> <img src="/images/sunderland02.png" width="300"/> 
+<img src="/images/villa15.png" width="425"/> <img src="/images/sunderland02.png" width="425"/> 
 
 Eric Black (Aston Villa, 2015/16) and Mick McCarthy (Sunderland, 2002/03) are the only mid-season hires to start their terms with 5 consecutive losses. Surprisingly, the 5 games leading up to their start were also losses. Ultimately, the new managers couldn't save their clubs from relegation. 
 
