@@ -52,9 +52,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :UA-100095584-1
 
 # Google AdSense
 google_ad_client         :
@@ -76,7 +76,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : ss3356
   google_plus      :
   keybase          :
   instagram        :
