@@ -10,7 +10,7 @@ The term 'New Manager Bounce' has become part of football jargon over the past f
 The end of season report by the **League Managers Association** makes for grim reading. The total manager sackings rose to an all-time high of 58 at the end of the 2015/16 season in the **top 4 tiers** of English Football, in comparison to 47 at the end of 2014/15 season. 
 
 [Plot of sackings per season for the last 10 seasons in the Premier League. Blue line indicates trend.](http://imgur.com/a/QhtS7)                        
-
+![alt text](https://github.com/ss3356/ss3356.github.io/blob/master/images/sackbyseason.png)
 
 There is no doubt football culture has changed over the past couple of decades. Premier League Clubs are run more and more like businesses. Impatient owners, panicking board members, angry fans, endless criticism from the media, one has to feel for the modern day manager. With new managers chasing this mythical "bounce", let us see if the stats back it up.
 
