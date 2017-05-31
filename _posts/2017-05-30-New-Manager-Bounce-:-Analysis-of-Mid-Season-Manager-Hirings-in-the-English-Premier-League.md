@@ -4,7 +4,7 @@ comments: true
 title: "New Manager Bounce : Analysis of Mid-Season Manager Hirings in the English Premier League"
 date: 2016-05-30
 ---
-<sub><i>Starred post on Reddit's /r/soccer</i></sub>
+<sub><i>Starred post on Reddit's <a href="https://www.reddit.com/r/soccer">/r/soccer</a></i></sub>
 
 
 The term 'New Manager Bounce' has become part of football jargon over the past few years. Given the new TV deal and the plethora of opportunities to make money by staying in the Premier League, there is an ever increasing pressure on managers to deliver results fast. A few wins on the trot could be the difference between survival and relegation. Clubs turn to new managers hoping for quick results and a change in fortune.
