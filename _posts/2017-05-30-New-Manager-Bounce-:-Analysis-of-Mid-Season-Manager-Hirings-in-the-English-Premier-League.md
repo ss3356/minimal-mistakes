@@ -4,7 +4,8 @@ comments: true
 title: "New Manager Bounce : Analysis of Mid-Season Manager Hirings in the English Premier League"
 date: 2016-05-30
 ---
-<sub><sup>Starred post on Reddit's /r/soccer</sup></sub>
+<sub>Starred post on Reddit's /r/soccer</sub>
+
 The term 'New Manager Bounce' has become part of football jargon over the past few years. Given the new TV deal and the plethora of opportunities to make money by staying in the Premier League, there is an ever increasing pressure on managers to deliver results fast. A few wins on the trot could be the difference between survival and relegation. Clubs turn to new managers hoping for quick results and a change in fortune.
 
 The end of season report by the **League Managers Association** makes for grim reading. The total manager sackings rose to an all-time high of 58 at the end of the 2015/16 season in the **top 4 tiers** of English Football, in comparison to 47 at the end of 2014/15 season. 
